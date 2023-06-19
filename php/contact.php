@@ -3,7 +3,7 @@
 // Email Setting
 //=======================================
 $admin_email = "marwa@elmanawy.info";
-$from_name = "Mulan";
+$from_name = "Grant";
 
 
 if (isset($_POST['email'])) {
